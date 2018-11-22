@@ -2,3 +2,5 @@
 test repository
 
 connection to localhost jira
+
+testovanie versions
